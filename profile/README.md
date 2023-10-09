@@ -5,6 +5,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; 우리의 앱은 그들에게 작은 위로와 사랑의 메시지를 전달하길 원합니다.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; 때문에 우리는 영어로 "나", 중국어로 "사랑한다"를 의미하는 "아이"를 
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 팀명으로 하게 되었습니다.
 
 ---
