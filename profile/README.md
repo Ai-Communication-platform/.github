@@ -1,4 +1,4 @@
-## [Development of AI voice recognition-based communication platform]
+# [Development of AI voice recognition-based communication platform]
 
 ---
 ## 00. Introduce
