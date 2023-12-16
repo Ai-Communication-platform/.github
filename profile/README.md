@@ -1,5 +1,6 @@
-# [Development of AI voice recognition-based communication platform]
-&nbsp;&nbsp; : Dong-A University DevDay - 🏆 Incentive award 
+# [Development of AI voice recognition-based communication platform]<br>
+
+#### &nbsp;&nbsp; ▶ [ Dong-A University DevDay&nbsp; : &nbsp; Incentive award 🏆] 
 
 ---
 ## 00. Introduce
