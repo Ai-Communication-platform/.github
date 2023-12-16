@@ -19,7 +19,19 @@
 <br>
 
 ---
-## 01. Skill
+## 01. Link
+ - AI(Topic GPT) : https://github.com/Ai-Communication-platform/Ai-LLM
+ - Voice Recognition : https://github.com/Ai-Communication-platform/-Ai
+ - App : https://github.com/Ai-Communication-platform/APP
+ - UX/UI : https://github.com/Ai-Communication-platform/UX-UI
+   1. The current project utilizes different versions of UX/UI design.
+   2. The corresponding UX/UI designs in the links are different versions of the designs, so feel free to use them to your liking.
+---
+<br>
+<br>
+
+---
+## 02. Skill
  - Development Environment: colab | visual studio code | android studio
  - Development Tool
    - Voice Recognition: Google TTS(Text-To-Speech) | Google STT(Speech-To-Text)
@@ -33,7 +45,7 @@
 <br>
 
 ---
-## 02. Benefit
+## 03. Benefit
 &nbsp;&nbsp; : By providing more sophisticated and personalized services that match the user's emotions and situation. <br>
 &nbsp;&nbsp;&nbsp; Can comfort lonely students and empathize with them
 
