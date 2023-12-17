@@ -57,6 +57,7 @@
 ## 04. Demonstration Video and Presentation Materials
 #### &nbsp;&nbsp; : [Ai_Communication_platform.pptx](https://github.com/Ai-Communication-platform/.github/files/13691893/Ai_Communication_platform.pptx)
 #### &nbsp;&nbsp; : [Ai_Communication_platform.pdf](https://github.com/Ai-Communication-platform/.github/files/13691900/Ai_Communication_platform.pdf)
-#### &nbsp;&nbsp; : [결과보고서_AI_.pdf](https://github.com/Ai-Communication-platform/.github/files/13695100/_AI_.pdf)
+#### &nbsp;&nbsp; : [결과보고서_AISA.pdf](https://github.com/Ai-Communication-platform/.github/files/13695922/_AISA.pdf)
+
 
 ---
