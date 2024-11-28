@@ -1,7 +1,11 @@
 # [Development of AI voice recognition-based communication platform]<br>
 
-#### &nbsp;&nbsp; ▶ [ Dong-A University DevDay&nbsp; : &nbsp; Incentive award 🏆] (2023) 
-#### &nbsp;&nbsp; ▶ [ Dong-A University FairDay&nbsp; : &nbsp; Incentive award 🏆] (2024) 
+## ##. Premier
+---
+#### &nbsp;&nbsp; ▶ [ Dong-A University DevDay&nbsp; : &nbsp; Incentive award (2023) 🏆] 
+#### &nbsp;&nbsp; ▶ [ Dong-A University FairDay&nbsp; : &nbsp; Incentive award (2024) 🏆] 
+---
+<br>
 
 ---
 ## 00. Introduce
